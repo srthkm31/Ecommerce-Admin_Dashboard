@@ -1,0 +1,12 @@
+# env files
+.env
+
+# logs
+npm-debug.log
+
+# OS files
+.DS_Store
+
+# build outputs (just in case)
+dist
+build
